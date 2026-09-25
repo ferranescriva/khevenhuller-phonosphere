@@ -1,0 +1,37 @@
+{
+  "Música": [
+    "música", "músic*", "sonar", "sonó", "sonaron", "sonaba", "sonando",
+    "ministril", "ministriles", "chirimía", "sacabuche", "bajón", "corneta",
+    "trompeta", "clarín", "atabal", "atambor", "tambor", "timbal", "pífano",
+    "dulzaina", "tamboril", "gaita", "arpa", "vihuela", "guitarra", "laúd",
+    "órgano", "organista", "cantor", "cantores", "capilla de música",
+    "maestro de capilla", "coro", "coros", "seises", "villancico", "motete",
+    "canción", "canto llano", "canto de órgano", "misa", "Te Deum", "tedeum",
+    "salve", "himno", "letanía", "responso", "romance", "copla", "coplas",
+    "tonada", "folía", "chacona", "zarabanda", "seguidilla", "cantar", "cantó",
+    "cantaron", "cantando", "cantaban", "cantan", "canto", "cantos", "entonar",
+    "entonó", "entonaron", "tañer", "tañó", "tañía", "tañían", "tañen",
+    "tañendo", "tañido", "tañidos", "tocar música", "tocaron"
+  ],
+  "Sonido y ruido": [
+    "campana", "campanas", "campanas al vuelo", "repic*", "esquila", "esquilas",
+    "campanario", "tañido de campanas", "salva", "salvas", "arcabuz",
+    "arcabuces", "arcabucería", "mosquete", "mosquetería", "artillería",
+    "tiro", "tiros", "cañonazo", "cañonazos", "pólvora", "cohete", "cohetes",
+    "petardo", "morterete", "morteretes", "bombarda", "estruendo", "estampido",
+    "traca", "algazara", "vocería", "vítor", "vítores", "aclam*", "gritos",
+    "grita", "alarido", "alaridos", "clamor", "bullicio", "estrépito",
+    "pregón", "pregones", "pregonar", "pregonó", "silencio", "disparar",
+    "disparó", "dispararon", "disparo", "disparos"
+  ],
+  "Voz y rumor": [
+    "rumor", "rumores", "murmurar", "murmuró", "murmuraban", "murmuración",
+    "murmullo", "murmullos", "al oído"
+  ],
+  "Metáfora musical (candidatas)": [
+    "concierto", "conciertos", "concertar", "concertó", "concertaron",
+    "concertado", "concertada", "concertados", "desconcierto", "templar",
+    "templó", "destemplar", "destemplado", "destemplada", "consonancia",
+    "armonía", "armónico", "armoniosa", "armonioso", "acorde"
+  ]
+}

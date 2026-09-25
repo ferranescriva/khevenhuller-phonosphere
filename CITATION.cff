@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "A Habsburg Ambassador's Phonosphere: supplementary data and code / Fonosfera de un embajador imperial: datos y código"
+message: "If you use this material, please cite it as below. / Si utiliza este material, cítelo como se indica."
+type: dataset
+authors:
+  - family-names: "Escrivà-Llorca"
+    given-names: "Ferran"
+    orcid: "https://orcid.org/0000-0002-5959-2595"
+    affiliation: "Universitat de València"
+    email: "ferran.escriva-llorca@uv.es"
+abstract: >-
+  Supplementary material for the article "A Habsburg Ambassador's Phonosphere:
+  Musical Experience and Material Culture in the Writings of Hans Khevenhüller".
+  It holds the data, the lexical instrument and the scripts used to extract and
+  code the musical and sonic references in the writings of Hans Khevenhüller
+  (1538-1606), ambassador of Emperors Maximilian II and Rudolf II to Philip II
+  of Spain. The coding applies the triad of listening levels of Antonio
+  Rostagno's historical phonosphere. Documentation is bilingual, Spanish and
+  English.
+keywords:
+  - fonosfera
+  - phonosphere
+  - historia de la escucha
+  - Hans Khevenhüller
+  - Casa de Austria
+  - corte hispana
+  - musicología histórica
+  - humanidades digitales
+  - cultura material de la música
+  - Tomás Luis de Victoria
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-09-25"
