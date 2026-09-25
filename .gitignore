@@ -1,0 +1,9 @@
+# corpus: ediciones con derechos de autor, no se versionan
+corpus/
+*.pdf
+
+# entornos y temporales
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
