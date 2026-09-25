@@ -1,0 +1,36 @@
+{
+  "title": "A Habsburg Ambassador's Phonosphere: supplementary data and code / Fonosfera de un embajador imperial: datos y código",
+  "upload_type": "dataset",
+  "language": "spa",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Escrivà-Llorca, Ferran",
+      "affiliation": "Universitat de València",
+      "orcid": "0000-0002-5959-2595"
+    }
+  ],
+  "description": "<p><strong>Supplementary material</strong> for the article <em>A Habsburg Ambassador's Phonosphere: Musical Experience and Material Culture in the Writings of Hans Khevenh&uuml;ller</em>.</p><p>It holds the data, the lexical instrument and the scripts used to extract and code the musical and sonic references in the writings of Hans Khevenh&uuml;ller (1538-1606), ambassador of Emperors Maximilian II and Rudolf II to Philip II of Spain. The corpus comes from two complementary Spanish editions: the diary edited by Sara Veronelli and F&eacute;lix Labrador Arroyo (2001) and the critical edition of the documentary record by Alfredo Alvar Ezquerra (2015).</p><p>The central table gathers 103 passages with musical vocabulary, coded along three axes drawn from Antonio Rostagno's historical phonosphere: the domain of the sound, its level in the triad of pedal, signal and symbol, and the listener's stance towards what he hears. Two larger corpora accompany it: 621 passages on exequies and honours, and 577 references from the broad sweep. A self-contained bilingual web presentation (index.html) displays the results.</p><p>Source texts are not distributed, as they are editions under copyright. Only derived data and short scholarly quotations are released. Data under CC BY 4.0, code under the MIT licence.</p><hr><p><strong>Material suplementario</strong> del art&iacute;culo. Contiene los datos, el instrumento l&eacute;xico y los scripts con los que se extrajeron y codificaron las referencias musicales y sonoras de los escritos del embajador. La documentaci&oacute;n es biling&uuml;e.</p>",
+  "keywords": [
+    "fonosfera",
+    "phonosphere",
+    "historia de la escucha",
+    "sound studies",
+    "Hans Khevenhüller",
+    "Casa de Austria",
+    "Habsburg court",
+    "corte hispana",
+    "musicología histórica",
+    "humanidades digitales",
+    "cultura material de la música",
+    "Tomás Luis de Victoria",
+    "Antonio Rostagno",
+    "Rostagno phonosphere",
+    "listening history",
+    "early modern court",
+    "digital humanities",
+    "music book provenance"
+  ],
+  "access_right": "open"
+}
