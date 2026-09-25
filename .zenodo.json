@@ -3,8 +3,7 @@
   "upload_type": "dataset",
   "language": "spa",
   "license": "cc-by-4.0",
-  "version": "1.0.0",
-  "creators": [
+   "creators": [
     {
       "name": "Escrivà-Llorca, Ferran",
       "affiliation": "Universitat de València",
