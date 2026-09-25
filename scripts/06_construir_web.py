@@ -675,7 +675,7 @@ footer p{max-width:70ch}
 <footer>
   <div class="wrap">
     <p><strong data-en="Citation.">Cita.</strong> Escrivà-Llorca, Ferran. <cite>Fonosfera de un embajador imperial: datos y
-      código</cite>. <span data-en="Supplementary material, 2026. DOI pending.">Material suplementario, 2026. DOI pendiente de asignación.</span></p>
+      código</cite>. <span data-en="Supplementary material. Zenodo, 2026.">Material suplementario. Zenodo, 2026.</span> <a href="https://doi.org/10.5281/zenodo.22958464">https://doi.org/10.5281/zenodo.22958464</a></p>
     <p><strong data-en="Licence.">Licencia.</strong> <span data-en="Data under CC BY 4.0 and code under the MIT licence. Quotations from the diary come from editions under copyright and are reproduced at the brief length proper to scholarly commentary. The source texts are not distributed here.">Datos bajo CC BY 4.0 y código bajo licencia MIT. Las citas del diario
       proceden de ediciones con derechos de autor y se reproducen en la extensión breve propia del
       comentario académico. Los textos fuente no se distribuyen aquí.</span></p>
