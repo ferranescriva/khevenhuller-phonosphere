@@ -29,5 +29,8 @@ keywords:
   - cultura material de la música
   - Tomás Luis de Victoria
 license: CC-BY-4.0
-version: "1.0.0"
+doi: "10.5281/zenodo.22958464"
+repository-code: "https://github.com/ferranescriva/khevenhuller-phonosphere"
+url: "https://ferranescriva.github.io/khevenhuller-phonosphere/"
+version: "1.0.1"
 date-released: "2026-09-25"

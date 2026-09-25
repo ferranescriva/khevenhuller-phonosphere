@@ -2,6 +2,8 @@
 
 **English** · [Español](README.es.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958464.svg)](https://doi.org/10.5281/zenodo.22958464)
+
 Supplementary material for the article «A Habsburg Ambassador's Phonosphere: Musical Experience and Material Culture in the Writings of Hans Khevenhüller».
 
 This repository holds the data, the lexical instrument and the scripts used to extract and code the musical and sonic references in the writings of Hans Khevenhüller (1538-1606), ambassador of Emperors Maximilian II and Rudolf II to Philip II of Spain.
@@ -155,7 +157,7 @@ The assignment of the deceased in the exequies table is made by name proximity a
 
 ## 9. Citation
 
-> Escrivà-Llorca, Ferran. *Fonosfera de un embajador imperial: datos y código*. Supplementary material. 2026. [DOI pending]
+> Escrivà-Llorca, Ferran. *A Habsburg Ambassador's Phonosphere: supplementary data and code*. Zenodo, 2026. https://doi.org/10.5281/zenodo.22958464
 
 For the article this material accompanies, see the full reference in the publication itself.
 

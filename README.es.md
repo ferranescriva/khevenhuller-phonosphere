@@ -2,6 +2,8 @@
 
 **Español** · [English](README.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958464.svg)](https://doi.org/10.5281/zenodo.22958464)
+
 Material suplementario del artículo «A Habsburg Ambassador's Phonosphere: Musical Experience and Material Culture in the Writings of Hans Khevenhüller».
 
 Este repositorio contiene los datos, el instrumento léxico y los scripts con los que se extrajeron y codificaron las referencias musicales y sonoras de los escritos de Hans Khevenhüller (1538-1606), embajador de los emperadores Maximiliano II y Rodolfo II ante Felipe II.
